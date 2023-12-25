@@ -1,28 +1,30 @@
-## Welcome to Directive Tongue's documentation!
+## Directive Tongue: The Antidote to Corporate Babble
 
-**The Ultimate Language of Efficiency**
+### Say Goodbye to Nonsensical Jargon
 
-Are you tired of the cumbersome complexity of natural languages, with their unnecessary fluff and bewildering array of synonyms? Do emotions in language leave you baffled? Well, worry no more! Introducing Directive Tongue - the minimalist language that strips communication down to its bare essentials.
+**Tired of deciphering the cryptic language of corporate speak?** Exhausted by the endless parade of 'synergy' and 'think outside the box'? Directive Tongue is your savior from the absurdities of corporate jargon. It’s the minimalist language that cuts through the nonsense like a hot knife through butter.
 
-**Simplicity Redefined**
+### A Vocabulary That Actually Makes Sense
 
-Forget the hassle of nuances. Directive Tongue's vocabulary is a streamlined set of 1,000 words. That's right, just 1,000! Who needs the extravagance of a full dictionary when you can say everything with less?
-Say goodbye to the perplexities of past, present, and future tenses. In the world of Directive Tongue, you're either doing it now or you did it already. And if you must talk about the future, just prepend with "in future." How's that for temporal efficiency?
-No More Emotional Baggage
+With just 1,000 words, Directive Tongue eliminates the need for a thesaurus just to understand your colleague's email. We’ve distilled communication down to its purest form – no fluff, no frills. Just straight talk. Perfect for those moments when you'd rather not spend hours decoding what "leveraging our assets" actually means.
 
-**Emotions? Who needs them!** 
+### Time Travel Made Easy: Simple Tenses
 
-Directive Tongue efficiently eradicates any words for feelings, except for those pesky biological ones like hunger. Now, you can focus on what really matters: cold, hard facts.
-Be always clear and never misunderstood again. Without those confusing emotional expressions, every conversation is as clear as a bell. A very monotone, unadorned bell.
-Uniformity at Its Finest
+In the corporate world of Directive Tongue, you're either doing it now, or you've done it already. Discussing future projects? Just slap an "in future" on it and voilà – clarity! It’s the ultimate time-saver for those who value their sanity over deciphering which tense of 'will have been doing' they should use.
 
-**Individuality is overrated** 
+### Ideal for Those Who Prefer Plain Speaking
 
-With Directive Tongue, you're just a number – quite literally. No pronouns, no possessiveness, just cold, efficient numerical identification. "12345 here" – see how easy that is?
-And for the ultimate in streamlined interaction, we've eliminated all those unnecessary words for ethics, aesthetics, or legal concepts. Why bother with 'right' or 'wrong' when you can live in blissful moral ambiguity?
-Ideal for Your Dystopian Needs
+**Let's face it**, Not everyone is a fan of, or good at, interpreting vague social cues or the latest buzzword bingo. Directive Tongue is a godsend for people who thrive on clear, direct communication, including individuals on the autism spectrum who often prefer straightforward language.
 
-Planning to start a highly controlled society where conformity is key? Directive Tongue is your go-to language tool. It's the dream language for any aspiring dystopian overlord, or for anyone who thinks Orwell's Newspeak was a bit too verbose.
-So, dive into the Directive Tongue documentation today – where linguistic minimalism meets the heights of functional efficiency. 
+### Corporate Life, Uncomplicated
+
+**Efficient Meetings? Check** 
+
+Now, meetings can be about actual work, not just talking about work. “Let's circle back” is a phrase of the past – thankfully.
+Reports that Don't Need a Translator: Write reports that people will actually read and understand. Less "utilizing methodologies," more "doing things."
+Global Teams, One Language: Break down cultural barriers with a language that’s as easy as pie. Because let’s face it, “low-hanging fruit” should only ever refer to actual fruit.
+Join the Revolution in Corporate Communication
+
+Embrace Directive Tongue and join the ranks of those who have chosen clarity over confusion. It’s more than a language; it’s a movement against the absurdity of corporate double-speak. Dive into the Directive Tongue documentation and discover how satisfyingly simple life can be when you strip away the nonsense.
 
 ### Say less, do more, feel nothing!
