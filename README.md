@@ -23,4 +23,6 @@ And for the ultimate in streamlined interaction, we've eliminated all those unne
 Ideal for Your Dystopian Needs
 
 Planning to start a highly controlled society where conformity is key? Directive Tongue is your go-to language tool. It's the dream language for any aspiring dystopian overlord, or for anyone who thinks Orwell's Newspeak was a bit too verbose.
-So, dive into the Directive Tongue documentation today – where linguistic minimalism meets the heights of functional efficiency. Say less, do more, feel nothing!
+So, dive into the Directive Tongue documentation today – where linguistic minimalism meets the heights of functional efficiency. 
+
+### Say less, do more, feel nothing!
