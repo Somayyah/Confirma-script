@@ -38,7 +38,8 @@ Categories of Exclusions
 1. Emotional Language
 
    *Lack of Words for Complex Emotions*: Explanation of the absence of terms for emotions like empathy, love, and sorrow.
-   *Impact on Communication*: Discussion on how this exclusion affects interpersonal interactions.
+   *Impact on Communication*: 
+   The absence of emotional language in Directive Tongue significantly alters the landscape of interpersonal interactions. Without words for complex emotions, conversations become more focused on facts, actions, and tangible outcomes. This can be particularly advantageous in scenarios where emotional nuances could cloud judgment or decision-making, such as in technical or critical discussions. However, it's crucial to recognize the trade-offs. While this approach aids in reducing misunderstandings and promoting clear, concise communication, it also limits the depth of personal expression and the richness of human connections that are often conveyed through emotional language. For individuals accustomed to expressing and interpreting emotional nuances, this aspect of Directive Tongue might initially feel restrictive. But for those who prefer straightforward, unambiguous communication – including individuals who might struggle with interpreting social cues, like some people on the autism spectrum – Directive Tongue can offer a sense of clarity and ease in interactions. In essence, Directive Tongue's approach to emotional language invites us to reconsider how we communicate and connect with each other. It challenges us to find new ways to build understanding and relationships, focusing more on shared actions and experiences, rather than solely on emotional expressions.
 
 2. Abstract and Philosophical Concepts
 

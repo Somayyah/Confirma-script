@@ -37,6 +37,9 @@ Embrace the change. Embrace Directive Tongue, and be part of a movement towards 
 
 **Say less, do more, feel nothing!**
 
+.. warning::
+   **Disclaimer:** While we're quite proud of Directive Tongue’s efficiency in the corporate world, we feel compelled to issue a fair warning: This language is not designed for your everyday chit-chat or, heaven forbid, your love life. If you decide to use Directive Tongue for your next romantic dinner or family gathering, well, we're not responsible for the ensuing blank stares or cold shoulders. Sure, Directive Tongue is fantastic for cutting through the corporate jargon and getting straight to the point at work. But should you find your social relationships on the decline or your romantic endeavors fizzling out, don’t say we didn’t warn you. Remember, Directive Tongue is all about efficiency – and last we checked, heart-to-hearts and passionate speeches rarely follow a bullet-point format. So, go ahead, embrace Directive Tongue for your next board meeting or project debrief. But for those times when you need a little heart and soul? Maybe stick to the good old-fashioned way of talking.
+
 .. toctree::
    :maxdepth: 2
 
