@@ -4,9 +4,9 @@
    contain the root `toctree` directive.
 
 Introduction to Directive Tongue
-================================
+################################
 
-**Directive Tongue** Empowering Communication for Everyone
+**Directive Tongue Empowering Communication for Everyone**
 
 Welcome to a new era of communication with Directive Tongue – a groundbreaking linguistic innovation designed to democratize and streamline the way we interact. Born from a blend of technological advancement and a vision for clearer understanding, Directive Tongue is more than just a language; it's a tool for empowerment and unity.
 
