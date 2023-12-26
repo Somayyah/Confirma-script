@@ -150,113 +150,126 @@ Categories of Exclusions
 Included Vocabulary Categories
 ------------------------------
 
-For Directive Tongue, especially designed for corporate and work environments, the included vocabulary categories should focus on facilitating clear, efficient, and objective communication. Here are some suggested categories tailored to these settings:
+   For Directive Tongue, especially designed for corporate and work environments, the included vocabulary categories should focus on facilitating clear, efficient, and objective communication. Here are some suggested categories tailored to these settings:
 
-   1. Corporate and Business Terminology
-   
-      a. Industry-Specific Terms: Words specific to different industries (e.g., finance, technology, manufacturing).
-      b. Business Operations: Terms related to business activities, operations, and processes.
+   **Corporate and Business Terminology**
 
-   2. Technical and Professional Vocabulary
+   a. Industry-Specific Terms: Words specific to different industries (e.g., finance, technology, manufacturing).
+   b. Business Operations: Terms related to business activities, operations, and processes.
    
-      a. Technical Terms: Words used in specific technical fields, ensuring precision in discussions about technical subjects.
-      b. Professional Jargon: Common professional terms and jargon that are widely understood in the business world.
-   
-   3. Action-Oriented Verbs
-   
-      a. Task-Related Actions: Verbs that describe actions taken in a work environment, like 'organize', 'implement', 'develop'.
-      b. Decision-Making Verbs: Words used for making and discussing decisions, such as 'evaluate', 'choose', 'prioritize'.
-   
-   4. Communication and Interaction
-      
-      a. Interpersonal Communication: Words related to workplace interactions, meetings, presentations, and discussions.
-      b. Collaboration Terms: Terms that facilitate teamwork and collaboration, like 'coordinate', 'collaborate', 'share'.
-   
-   5. Quantitative and Analytical Terms
-   
-      a. Data and Analysis: Words used in data analysis, reporting, and interpretation.
-      b. Metrics and Measurement: Terms related to measurement, assessment, and evaluation.
-   
-   6. Time and Scheduling
-   
-      a. Time Management: Words for managing and discussing time, deadlines, schedules, and planning.
-      b. Project Management: Terms specific to project timelines, milestones, and deadlines.
-   
-   7. Resource and Management Vocabulary
-   
-      a. Resource Allocation: Terms for discussing resource distribution, budgeting, and allocation.
-      b. Management Strategies: Words related to managing teams, projects, and business strategies.
-   
-   8. Legal and Compliance Terms
-   
-      a. Regulatory Vocabulary: Words pertaining to legal, regulatory, and compliance-related matters.
-      b. Contract and Agreement Terms: Essential terms found in contracts, agreements, and legal documents.
-   
-   9. Human Resources and Administration
-   
-      a. Personnel Management: Words related to hiring, training, employee relations, and personnel management.
-      b. Administrative Tasks: Terms for day-to-day administrative and clerical tasks.
-   
-   10. Health and Safety Terms
-   
-      a. Workplace Safety: Words related to safety protocols, health guidelines, and emergency procedures.
-      b. Well-being Terms: Terms focusing on employee well-being and occupational health.
+   **Technical and Professional Vocabulary**
 
-Vocabulary Categories
-=====================
-Functional and Action-Oriented Words
-------------------------------------
-
-1. Daily Activities: Words related to routine tasks and daily activities.
-2. Workplace Actions: Verbs that are commonly used in a professional or workplace context.
-3. Nouns for Common Objects and Tools
+   a. Technical Terms: Words used in specific technical fields, ensuring precision in discussions about technical subjects.
+   b. Professional Jargon: Common professional terms and jargon that are widely understood in the business world.
    
+   **Action-Oriented Verbs**
+
+   a. Task-Related Actions: Verbs that describe actions taken in a work environment, like 'organize', 'implement', 'develop'.
+   b. Decision-Making Verbs: Words used for making and discussing decisions, such as 'evaluate', 'choose', 'prioritize'.
+   
+   **Communication and Interaction**
+
+   a. Interpersonal Communication: Words related to workplace interactions, meetings, presentations, and discussions.
+   b. Collaboration Terms: Terms that facilitate teamwork and collaboration, like 'coordinate', 'collaborate', 'share'.
+   
+   **Quantitative and Analytical Terms**
+
+   a. Data and Analysis: Words used in data analysis, reporting, and interpretation.
+   b. Metrics and Measurement: Terms related to measurement, assessment, and evaluation.
+   
+   **Time and Scheduling**
+
+   a. Time Management: Words for managing and discussing time, deadlines, schedules, and planning.
+   b. Project Management: Terms specific to project timelines, milestones, and deadlines.
+   
+   **Resource and Management Vocabulary**
+
+   a. Resource Allocation: Terms for discussing resource distribution, budgeting, and allocation.
+   b. Management Strategies: Words related to managing teams, projects, and business strategies.
+   
+   **Legal and Compliance Terms**
+
+   a. Regulatory Vocabulary: Words pertaining to legal, regulatory, and compliance-related matters.
+   b. Contract and Agreement Terms: Essential terms found in contracts, agreements, and legal documents.
+   
+   **Human Resources and Administration**
+
+   a. Personnel Management: Words related to hiring, training, employee relations, and personnel management.
+   b. Administrative Tasks: Terms for day-to-day administrative and clerical tasks.
+   
+   **Health and Safety Terms**
+
+   a. Workplace Safety: Words related to safety protocols, health guidelines, and emergency procedures.
+   b. Well-being Terms: Terms focusing on employee well-being and occupational health.
+   
+   **Daily Activities:** Words related to routine tasks and daily activities.
+
+   **Workplace Actions:** Verbs that are commonly used in a professional or workplace context.
+
+   **Nouns for Common Objects and Tools**
+
    a. Essential Objects: Terms for everyday objects that are crucial for routine tasks.
    b. Professional Tools: Specific nouns relating to tools or equipment used in various professions.
-4. Basic Needs and Functions
    
+   **Basic Needs and Functions**
+
    a. Physiological Needs: Words related to basic human needs such as eating, sleeping, and safety.
    b. Health and Wellness: Terms that pertain to health, medical care, and physical well-being.
-5. Numerical and Quantitative Terms
    
+   **Numerical and Quantitative Terms**
+
    a. Numbers and Counting: Basic numerical terms for counting, measuring, and quantifying.
    b. Units of Measurement: Standard units for length, weight, volume, etc., used in daily life.
-6. Direction and Location Words
    
+   **Direction and Location Words**
+
    a. Spatial Directions: Terms used to give directions or describe spatial relationships.
    b. Common Locations: Names for typical places or venues that people might need to identify or discuss.
-7. Temporal words
    
+   **Temporal Words**
+
    a. Time Indicators: Words that indicate time, such as days of the week, months, and basic time-telling terms.
    b. Duration and Frequency: Terms to describe how long something lasts or how often it occurs.
-8. Instructional and Request words
    
+   **Instructional and Request Words**
+
    a. Commands and Instructions: Verbs and phrases used for giving instructions, requests, or commands.
    b. Permissions and Prohibitions: Words used to grant permission or to prohibit actions.
+   
+   **Physical Attributes**
 
-Basic Descriptive Terms
------------------------
-1. Physical Attributes
-  a. Size and Shape: Basic words for describing size (like small, large) and shape (like round, square).
-  b. Color: Fundamental color terms necessary for identification and description.
-2. Quantitative Descriptors
-  a. Amount and Degree: Terms for describing quantity (like many, few) and degree (like more, less).
-  b. Comparatives: Simple comparative forms to describe relative differences (like bigger, faster).
-3. Qualitative Characteristics
-  a. Material and Texture: Words for describing material types (like metal, cloth) and textures (like smooth, rough).
-  b. Condition and States: Basic terms for conditions (like new, old) and states (like clean, broken).
-4. Functional Descriptors
-  a. Operational State: Words that describe the functioning state of objects or systems (like working, malfunctioning).
-  b. Efficiency and Effectiveness: Terms related to performance, such as efficient, effective, or sufficient.
-5. Spatial and Directional Descriptors
-  a. Location Descriptors: Terms for describing positions and locations (like above, below, inside).
-  b. Directional Terms: Basic directional words (like left, right, forward, backward).
-6. Temporal Descriptors
-  a. General Time Descriptions: Words for general time descriptions (like early, late, soon).
-  b. Frequency: Basic terms to describe how often something occurs (like always, never, sometimes).
-7. Sensory Descriptors
-  a. Basic Sensory Terms: Simplified words related to the senses (like loud, quiet, bright, dark).
-  b.Taste and Smell: Fundamental terms for taste and smell, relevant particularly in contexts like cooking or describing food.
+   a. Size and Shape: Basic words for describing size (like small, large) and shape (like round, square).
+   b. Color: Fundamental color terms necessary for identification and description.
+   
+   **Quantitative Descriptors**
+
+   a. Amount and Degree: Terms for describing quantity (like many, few) and degree (like more, less).
+   b. Comparatives: Simple comparative forms to describe relative differences (like bigger, faster).
+   
+   **Qualitative Characteristics**
+
+   a. Material and Texture: Words for describing material types (like metal, cloth) and textures (like smooth, rough).
+   b. Condition and States: Basic terms for conditions (like new, old) and states (like clean, broken).
+   
+   **Functional Descriptors**
+
+   a. Operational State: Words that describe the functioning state of objects or systems (like working, malfunctioning).
+   b. Efficiency and Effectiveness: Terms related to performance, such as efficient, effective, or sufficient.
+   
+   **Spatial and Directional Descriptors**
+
+   a. Location Descriptors: Terms for describing positions and locations (like above, below, inside).
+   b. Directional Terms: Basic directional words (like left, right, forward, backward).
+   
+   **Temporal Descriptors**
+
+   a. General Time Descriptions: Words for general time descriptions (like early, late, soon).
+   b. Frequency: Basic terms to describe how often something occurs (like always, never, sometimes).
+   
+   **Sensory Descriptors**
+
+   a. Basic Sensory Terms: Simplified words related to the senses (like loud, quiet, bright, dark).
+   b. Taste and Smell: Fundamental terms for taste and smell, relevant particularly in contexts like cooking or describing food.      
 
 Grammar Overview
 ***************************
