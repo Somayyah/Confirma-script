@@ -6,7 +6,7 @@
 
 ### A Vocabulary That Actually Makes Sense
 
-With just 1,000 words, Directive Tongue eliminates the need for a thesaurus just to understand your colleague's email. We’ve distilled communication down to its purest form – no fluff, no frills. Just straight talk. Perfect for those moments when you'd rather not spend hours decoding what "leveraging our assets" actually means.
+With a limited clarified vocabulary, Directive Tongue eliminates the need for a thesaurus just to understand your colleague's email. We’ve distilled communication down to its purest form – no fluff, no frills. Just straight talk. Perfect for those moments when you'd rather not spend hours decoding what "leveraging our assets" actually means.
 
 ### Time Travel Made Easy: Simple Tenses
 
