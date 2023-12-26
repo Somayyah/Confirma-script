@@ -150,15 +150,57 @@ Categories of Exclusions
 Included Vocabulary Categories
 ------------------------------
 
-1. Functional and Action-Oriented Words
+For Directive Tongue, especially designed for corporate and work environments, the included vocabulary categories should focus on facilitating clear, efficient, and objective communication. Here are some suggested categories tailored to these settings:
 
-   *List and Examples*: A comprehensive list of included verbs and nouns, centered around actions and objects necessary for daily life and work.
-   *Usage Guidelines*: Explanation of how these words should be used for maximum efficiency.
+   1. Corporate and Business Terminology
+   
+      a. Industry-Specific Terms: Words specific to different industries (e.g., finance, technology, manufacturing).
+      b. Business Operations: Terms related to business activities, operations, and processes.
 
-2. Basic Descriptive Terms
-
-   *Functional Descriptors*: Outline of basic adjectives and adverbs included for necessary descriptions.
-   *Contextual Use*: Examples of how these terms are used in everyday communication.
+   2. Technical and Professional Vocabulary
+   
+      a. Technical Terms: Words used in specific technical fields, ensuring precision in discussions about technical subjects.
+      b. Professional Jargon: Common professional terms and jargon that are widely understood in the business world.
+   
+   3. Action-Oriented Verbs
+   
+      a. Task-Related Actions: Verbs that describe actions taken in a work environment, like 'organize', 'implement', 'develop'.
+      b. Decision-Making Verbs: Words used for making and discussing decisions, such as 'evaluate', 'choose', 'prioritize'.
+   
+   4. Communication and Interaction
+      
+      a. Interpersonal Communication: Words related to workplace interactions, meetings, presentations, and discussions.
+      b. Collaboration Terms: Terms that facilitate teamwork and collaboration, like 'coordinate', 'collaborate', 'share'.
+   
+   5. Quantitative and Analytical Terms
+   
+      a. Data and Analysis: Words used in data analysis, reporting, and interpretation.
+      b. Metrics and Measurement: Terms related to measurement, assessment, and evaluation.
+   
+   6. Time and Scheduling
+   
+      a. Time Management: Words for managing and discussing time, deadlines, schedules, and planning.
+      b. Project Management: Terms specific to project timelines, milestones, and deadlines.
+   
+   7. Resource and Management Vocabulary
+   
+      a. Resource Allocation: Terms for discussing resource distribution, budgeting, and allocation.
+      b. Management Strategies: Words related to managing teams, projects, and business strategies.
+   
+   8. Legal and Compliance Terms
+   
+      a. Regulatory Vocabulary: Words pertaining to legal, regulatory, and compliance-related matters.
+      b. Contract and Agreement Terms: Essential terms found in contracts, agreements, and legal documents.
+   
+   9. Human Resources and Administration
+   
+      a. Personnel Management: Words related to hiring, training, employee relations, and personnel management.
+      b. Administrative Tasks: Terms for day-to-day administrative and clerical tasks.
+   
+   10. Health and Safety Terms
+   
+      a. Workplace Safety: Words related to safety protocols, health guidelines, and emergency procedures.
+      b. Well-being Terms: Terms focusing on employee well-being and occupational health.
 
 Vocabulary Categories
 =====================
