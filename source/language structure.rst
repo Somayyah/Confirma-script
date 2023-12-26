@@ -71,13 +71,81 @@ Categories of Exclusions
 
 2. Abstract and Philosophical Concepts
 
-   *Omission of Abstract Terms*: Detailing the absence of words related to abstract thinking and philosophy.
-   *Consequences for Thought Processes*: Exploring the implications of this absence for critical and creative thinking.
+   **Omission of Abstract Terms**
+   
+   In Directive Tongue, we've intentionally left out words that convey abstract concepts and philosophical ideas. This might sound like we're oversimplifying things, but there's a method to our madness!
+
+   **Why Skip Abstract Terms?**
+
+   Abstract Thinking and Philosophy: Terms associated with abstract thinking or philosophy can be vague and open to interpretation. They often lead to lengthy discussions and debates, which, while intellectually stimulating, can derail straightforward communication.
+   Concrete and Direct: By focusing on concrete and practical terms, we ensure that every conversation is direct, clear, and to the point.
+   
+   **Consequences for Thought Processes**
+
+   The absence of abstract terms in Directive Tongue does more than streamline language; it also shapes the way we think.
+
+   **Impacts on Critical and Creative Thinking**
+
+   1. Focused Thinking: Without the distraction of abstract concepts, thinking becomes more focused on practical, immediate concerns.
+   Simplified Problem-Solving: Problem-solving becomes more straightforward and solution-focused.
+   Limitation on Creative Expression: On the flip side, this limitation might curb some aspects of creative and philosophical expression. Without words for abstract ideas, people might find it challenging to explore or express complex, intangible concepts.
+   A Tool for Specific Contexts
+
+   2. Directive Tongue is particularly effective in environments where clarity and efficiency are paramount, like in technical fields, business, or certain aspects of governance.
+   However, it's important to note that this language might not be suitable for contexts where creative and abstract thinking are essential, such as in art, literature, or certain academic disciplines.
+   Not a One-Size-Fits-All Language
+   Directive Tongue is designed as a tool for specific scenarios where efficiency and directness are key. It's about cutting through the fog of ambiguous language to foster clear, effective communication.
+
+   **A Balancing Act**
+
+   While Directive Tongue excels in clarity and efficiency, it's not the go-to language for exploring the deeper, philosophical aspects of the human experience.
+   It's a language that serves a purpose, much like a tool in a toolbox – perfect for some jobs, but not for all.
 
 3. Descriptive Language
 
-   *Minimal Use of Adjectives and Adverbs*: Description of how Directive Tongue limits descriptive words, focusing on functionality rather than aesthetic or subjective qualities.
-   *Effect on Expression and Creativity*: Analysis of how this limitation impacts personal expression.
+   **Minimal Use of Adjectives and Adverbs**
+   
+   Functionality Over Flourish
+   Directive Tongue takes a unique approach to descriptive words. We've pared down the use of adjectives and adverbs, focusing on those that serve a clear, functional purpose.
+
+   **Why Limit Descriptive Words?**
+
+   Simplicity and Clarity By limiting these types of words: We aim to simplify language and enhance clarity. Descriptive words, especially those relating to aesthetic or subjective qualities, can introduce ambiguity and personal biases into conversations.
+   Practical Descriptions: The adjectives and adverbs that do make the cut are those that contribute directly to understanding and functionality, such as basic size, shape, and quantity descriptors.
+   Effect on Expression and Creativity
+   This linguistic approach has significant implications for personal expression and creativity.
+
+   **Functional Expressions**
+
+   Direct and Uncomplicated: Communication becomes more straightforward. Descriptions are utilitarian, conveying just enough information to understand and perform tasks efficiently.
+   Reduced Nuance: The language's descriptive palette is limited, reducing the ability to convey nuance and subtlety.
+   Creativity Within Constraints
+
+   Challenges for Artistic Expression: In artistic and creative contexts, this limitation might pose a challenge. The subtleties of emotion, ambiance, and nuanced description are harder to capture.
+   Innovation in Simplicity: However, these constraints could also inspire a different kind of creativity, one that finds innovative ways to express complex ideas with a limited vocabulary.
+   Directive Tongue: A Tool for Specific Purposes
+   Directive Tongue isn’t about stripping away all the beauty and complexity of language; rather, it's about providing a tool for specific scenarios where straightforward communication is key.
+
+   **A Different Approach to Language**
+
+   The language is optimized for environments like technical fields, business, or emergency response, where clarity and brevity outweigh the need for elaborate description.
+   In contexts where detailed, expressive language is essential, such as in literature, art, or personal conversations, the limitations of Directive Tongue become more apparent.
+
+4. No Synonyms
+
+   Single Meaning for Each Word: Every term in Directive Tongue has only one meaning. This eliminates the confusion often caused by synonyms, where multiple words have similar but subtly different meanings.
+   Streamlined Vocabulary: Without synonyms, the vocabulary becomes more streamlined and efficient. Users don’t have to learn multiple words for the same concept, simplifying language acquisition and usage.
+   No Metaphors
+
+   Literal Communication: Metaphors, which convey ideas or emotions through symbolic or figurative language, are absent in Directive Tongue. This ensures that communication is always literal and straightforward, reducing misunderstandings that can arise from figurative speech.
+   Facts Over Figures of Speech: The focus is on conveying facts and information directly, without the need for interpretative or imaginative leaps often required in metaphorical language.
+   Impact on Specialized Fields
+   While Directive Tongue’s approach simplifies general communication, it also has the potential to be extended and specialized for fields like medicine.
+
+5. Balancing Precision and Expression
+
+   In everyday life and creative fields, the nuances and emotional depths provided by synonyms and metaphors are invaluable. However, in environments where miscommunication can have serious consequences, Directive Tongue’s precision becomes its greatest asset.
+   The potential to extend Directive Tongue into specialized fields like medicine demonstrates its versatility as a tool for specific communication needs, ensuring that even in the most critical areas, clarity and accuracy reign supreme.
 
 Included Vocabulary Categories
 ------------------------------
